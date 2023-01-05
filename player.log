@@ -1,0 +1,773 @@
+Mono path[0] = 'D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   31.0.15.1748
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.208 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 1.623300 ms
+RimWorld 1.4.3580 rev1304
+Tried loading mod with the same packageId multiple times: rimfridge.kv.rw. Ignoring the duplicates.
+D:\Steam\steamapps\workshop\content\294100\2878183338
+D:\Steam\steamapps\workshop\content\294100\1180721235 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: TedDraws.MedicinesPlus.AT. Ignoring the duplicates.
+D:\Steam\steamapps\workshop\content\294100\2878860499
+D:\Steam\steamapps\workshop\content\294100\2558272601 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: rimfridge.kv.rw. Ignoring the duplicates.
+D:\Steam\steamapps\workshop\content\294100\2878183338
+D:\Steam\steamapps\workshop\content\294100\1180721235 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: TedDraws.MedicinesPlus.AT. Ignoring the duplicates.
+D:\Steam\steamapps\workshop\content\294100\2878860499
+D:\Steam\steamapps\workshop\content\294100\2558272601 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8B01050.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A2C1D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8BF6010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8C20250.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8D77820.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8927200.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8DA5450.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8DB0260.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8DB3470.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8DB8480.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BD08B1100.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8DC1EB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8DE88D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BD0331550.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E29D00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E2D510.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E5C750.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E7B350.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E7D160.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E80780.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E81D90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8E955A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8EA31C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8FD1180.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8FDFE30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF901AA70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF9038090.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF9042EA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF904D6B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF90C1010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF90F7620.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF90FE440.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF91D1270.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF91D6880.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF91E3290.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF92CCCD0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF9413310.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF9426720.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF944D530.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A299B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF9467770.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA36A2B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA38C2E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A2E9F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA393F60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA39B380.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA405010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA423620.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF946CB80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA533E80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA536E90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF6AE8050.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA552010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA580A30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA64C450.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA64DC60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA654A80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA65BCA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A2D5E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA65EAB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA664CD0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA66DAE0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA66F4F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA671300.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A7A2C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA682910.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA691D40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A27190.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA697960.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA6B7970.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA6CE5A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA6DC1C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BD08A90E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA6E03E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA752000.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA762C10.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA763E20.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA76C830.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA771040.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA7B0C70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA814010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA823230.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA90A450.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA90F460.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA911870.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA912E80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9498A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA94EEB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9536C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9562D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA95D2F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA95F500.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA96B920.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BD0895090.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA987D40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9AC370.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9AEB90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9CAFA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFA9D01C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAABE3F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAAC6A00.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAAD1220.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAADBF60.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAADE970.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAAF3F80.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAAF8B90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFACD5BC0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFACDDCF0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFACE7510.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFACFB140.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD83220.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD84430.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD8DA40.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD465E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD9BA50.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFADA6A70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A6B260.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFADBA290.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFADBDEA0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFADC02B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFADDE8E0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD606B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAE3F320.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAD646D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAE52010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAF09A30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A33A30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFAFB9550.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB017020.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB023E30.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB026440.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB111980.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB112F90.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A32620.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF8A37660.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB11A9B0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB1700D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB1637D0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB167BE0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB180090.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB1872A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB188CB0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB2A0EF0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB2FA220.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB3EB060.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB3FBA70.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB3FD680.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB41E2A0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB42B2C0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB520230.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFB92E120.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF7468160.dll
+[VanillaAchievementsExpanded] version 1.4.8315
+dubwise.dubsbadhygiene 3.0.2228
+dubwise.dubscentralheating v1.0.55
+DubsMintMenus v1.3.995
+FactionCustomizer is successfully initialized!
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BF6BCA4F0.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014A402DC010.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFD24D020.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFD27C030.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014A402FF230.dll
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000014BFD1FD020.dll
+[Bed Rest For Food Poisoning] Loaded.
+Dubs Skylight 1.5.2110
+[VanillaFixHaulAfterSlaughter 0.2.1] Mod Loaded.
+0.065 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+1.0.8315 ::
+Rimatomics 1.7.2500
+QualityBuilder successfully patched Replace Stuff
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+Tried to use an uninitialized DefOf of type DamageDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type Fortification.AlongWayDamage_CompProperties 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SimplyMoreBridges: Found 7 materials to generate bridge-definitions for.
+SimplyMoreBridges: Generated the following stony bridges: HeavyBridgeSandstone,DeepWaterBridgeSandstone,HeavyBridgeGranite,DeepWaterBridgeGranite,HeavyBridgeLimestone,DeepWaterBridgeLimestone,HeavyBridgeSlate,DeepWaterBridgeSlate,HeavyBridgeMarble,DeepWaterBridgeMarble
+SimplyMoreBridges: Generated the following metal bridges: HeavyBridgeSteel,HeavyBridgePlasteel
+SimplyMoreBridges: Generated the following woody bridges: 
+Key binding conflict: MainTab_MedicalTab and Misc7 are both bound to M. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: Misc7 and MainTab_MedicalTab are both bound to M. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble, Coral
+Matfrom with null shader. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 16 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Biotech Expansion - Core Loaded!
+Biotech Expansion - Mammalia Loaded!
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.4.3566.3 initialized
+Biomes Map after Init: 3
+[TrueTerrainColors v1.11] Loaded cached true colors for 890 terrain defs from file.
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+Wall Light: v1.4.8348.3000
+Wall Light - Replace Stuff compatibility initialized.
+Harvest Everything: successfully completed 5 harmony patches.
+[Biomes! Core v2.0.0-beta] Initialized
+Transpiler start: JobGiver_GetRest.GetPriority (2 matches)
+JobGiver_GetRest.GetPriority match 1 of 2
+JobGiver_GetRest.GetPriority match 2 of 2
+[Biomes! Islands v2.0.0-beta] Initialized
+LWM Update: stable(ish) 1.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, ShelfOfHolding, ShelfSmallOfHolding, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain, Shelf_WeaponRack, VFES_AmmoCrate, QRY_Platform into Deep Storage
+Medical Tab :: Tag Tongue is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Enabled Prison Labor v1.4.5
+[PL] Found hospitality mod
+[PL] Hospitality mod patched
+[PL] Quarry patched
+[Simple FX: Splashes] The following terrains have been defined as being hard:
+ - concrete
+ - paved tile
+ - steel tile
+ - silver tile
+ - gold tile
+ - sterile tile
+ - sandstone tile
+ - granite tile
+ - limestone tile
+ - slate tile
+ - marble tile
+ - sandstone flagstone
+ - granite flagstone
+ - limestone flagstone
+ - slate flagstone
+ - marble flagstone
+ - fine sandstone tile
+ - fine granite tile
+ - fine limestone tile
+ - fine slate tile
+ - fine marble tile
+ - morbid sandstone tile
+ - morbid granite tile
+ - morbid limestone tile
+ - morbid slate tile
+ - morbid marble tile
+ - sandstone spikecore tile
+ - granite spikecore tile
+ - limestone spikecore tile
+ - slate spikecore tile
+ - marble spikecore tile
+ - spikecore plates
+ - totemic sandstone tile
+ - totemic granite tile
+ - totemic limestone tile
+ - totemic slate tile
+ - totemic marble tile
+ - hex tile
+ - corporate fine sandstone tile
+ - corporate fine granite tile
+ - corporate fine limestone tile
+ - corporate fine slate tile
+ - corporate fine marble tile
+ - shintao fine sandstone tile
+ - shintao fine granite tile
+ - shintao fine limestone tile
+ - shintao fine slate tile
+ - shintao fine marble tile
+ - jewish sandstone tile
+ - jewish granite tile
+ - jewish limestone tile
+ - jewish slate tile
+ - jewish marble tile
+ - jewish fine sandstone tile
+ - jewish fine granite tile
+ - jewish fine limestone tile
+ - jewish fine slate tile
+ - jewish fine marble tile
+ - kemetic sandstone tile
+ - kemetic granite tile
+ - kemetic limestone tile
+ - kemetic slate tile
+ - kemetic marble tile
+ - kemetic pristine limestone tile
+ - kemetic fine sandstone tile
+ - kemetic fine granite tile
+ - kemetic fine limestone tile
+ - kemetic fine slate tile
+ - kemetic fine marble tile
+ - kemetic fine pristine limestone tile
+ - futuristic kemetic tile
+ - pristine limestone tile
+ - pristine limestone flagstone
+ - steampunk sandstone tile
+ - steampunk granite tile
+ - steampunk limestone tile
+ - steampunk slate tile
+ - steampunk marble tile
+ - neolithic sandstone packed dirt floor
+ - neolithic granite packed dirt floor
+ - neolithic limestone packed dirt floor
+ - neolithic slate packed dirt floor
+ - neolithic marble packed dirt floor
+ - restored rusted tile
+ - restored tile
+ - mosaic tile
+ - sandstone mosaic tile
+ - granite mosaic tile
+ - limestone mosaic tile
+ - slate mosaic tile
+ - marble mosaic tile
+ - asphalt
+ - sandstone cobblestone floor
+ - granite cobblestone floor
+ - limestone cobblestone floor
+ - slate cobblestone floor
+ - marble cobblestone floor
+ - sandstone polished stone floor
+ - granite polished stone floor
+ - limestone polished stone floor
+ - slate polished stone floor
+ - marble polished stone floor
+ - sandstone slabs
+ - granite slabs
+ - limestone slabs
+ - slate slabs
+ - marble slabs
+ - broken asphalt
+ - sandstone bridge
+ - granite bridge
+ - limestone bridge
+ - slate bridge
+ - marble bridge
+ - steel bridge
+ - concrete foundation
+ - coral tile
+ - coral flagstone
+ - sandstone smoothed
+ - granite smoothed
+ - limestone smoothed
+ - slate smoothed
+ - marble smoothed
+ - plasteel floor
+ - jade floor
+ - rough paving (sandstone)
+ - rough paving (granite)
+ - rough paving (limestone)
+ - rough paving (slate)
+ - rough paving (marble)
+ - stone slabs (sandstone)
+ - stone slabs (granite)
+ - stone slabs (limestone)
+ - stone slabs (slate)
+ - stone slabs (marble)
+ - staggered stone tiles (sandstone)
+ - staggered stone tiles (granite)
+ - staggered stone tiles (limestone)
+ - staggered stone tiles (slate)
+ - staggered stone tiles (marble)
+ - alternating brick paving (sandstone)
+ - alternating brick paving (granite)
+ - alternating brick paving (limestone)
+ - alternating brick paving (slate)
+ - alternating brick paving (marble)
+ - chequered slabs (sandstone)
+ - chequered slabs (granite)
+ - chequered slabs (limestone)
+ - chequered slabs (slate)
+ - chequered slabs (marble)
+ - herringbone paving (sandstone)
+ - herringbone paving (granite)
+ - herringbone paving (limestone)
+ - herringbone paving (slate)
+ - herringbone paving (marble)
+ - hex paving (sandstone)
+ - hex paving (granite)
+ - hex paving (limestone)
+ - hex paving (slate)
+ - hex paving (marble)
+ - digital paving (sandstone)
+ - digital paving (granite)
+ - digital paving (limestone)
+ - digital paving (slate)
+ - digital paving (marble)
+ - mosaic paving (sandstone)
+ - mosaic paving (granite)
+ - mosaic paving (limestone)
+ - mosaic paving (slate)
+ - mosaic paving (marble)
+ - random paving (sandstone)
+ - random paving (granite)
+ - random paving (limestone)
+ - random paving (slate)
+ - random paving (marble)
+ - diamond paving (sandstone)
+ - diamond paving (granite)
+ - diamond paving (limestone)
+ - diamond paving (slate)
+ - diamond paving (marble)
+ - arabesque flooring (sandstone)
+ - arabesque flooring (granite)
+ - arabesque flooring (limestone)
+ - arabesque flooring (slate)
+ - arabesque flooring (marble)
+ - chequered slabs (marble / slate)
+ - chequered slabs (marble / sandstone)
+ - chequered slabs (marble / granite)
+ - chequered slabs (limestone / slate)
+ - chequered slabs (limestone / sandstone)
+ - chequered slabs (limestone / granite)
+ - chequered slabs (slate / sandstone)
+ - chequered slabs (slate / granite)
+ - chequered slabs (limestone / marble)
+ - concrete path
+ - concrete tile
+ - fine concrete tile
+ - concrete flagstone
+ - concrete tile
+ - concrete bridge
+ - fine pristine limestone tile
+ - fine steel tile
+ - fine silver tile
+ - fine gold tile
+ - fine coral tile
+ - coral bridge
+ - coral cobblestone floor
+ - coral slabs
+ - polished coral stone floor
+ - concrete bridge
+ - concrete polished stone floor
+ - concrete slabs
+ - concrete cobblestone floor
+ - reinforced concrete bridge
+ - sandstone bridge
+ - sandstone deep water bridge
+ - granite bridge
+ - granite deep water bridge
+ - limestone bridge
+ - limestone deep water bridge
+ - slate bridge
+ - slate deep water bridge
+ - marble bridge
+ - marble deep water bridge
+ - steel bridge
+ - plasteel bridge
+ - rough sandstone
+ - rough-hewn sandstone
+ - rough granite
+ - rough-hewn granite
+ - rough limestone
+ - rough-hewn limestone
+ - rough slate
+ - rough-hewn slate
+ - rough marble
+ - rough-hewn marble
+ - rough coral
+ - rough-hewn coral
+[Geological Landforms v1.5.2] Found landform data in the following mods: Geological Landforms
+[Geological Landforms v1.5.2] Loaded 32 landforms of which 0 are edited and 0 are custom.
+MVCF successfully applied 0 patches
+[UnlimitedHugs.HugsLib] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GeologicalLandforms.Main] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[OskarPotocki.VanillaPsycastsExpanded] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
+(Filename:  Line: 369)
+
+CharacterEditor v1.4.1235 initializing...
+updating labels for english...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.4.1235 ...done
+[HugsLib] initializing RunAndGun, Linkolas.Stabilize, Hospitality
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+378 default entities for genes created
+creating default parameter list for objects...
+2910 default entities for objects created
+creating default parameter list for turrets...
+46 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+no modifications for objects
+no modifications for lifestages
+...done
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.677500 ms
+QualityBuilder added property to '358' things
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 46012.
+Total: 1093.594200 ms (FindLiveObjects: 5.382700 ms CreateObjectMapping: 9.500100 ms MarkObjects: 1077.139900 ms  DeleteObjects: 1.570500 ms)
+
+Loading game from file The Red Winter Organisation9 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - vanillaexpanded.backgrounds
+  - UnlimitedHugs.HugsLib
+  - smashphil.srtsexpanded
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - Inglix.ApparelTaintedOnCorpseRot
+  - LimeTreeSnake.Systems
+  - LimeTreeSnake.Xenotech
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VMemesE
+  - Sarg.AlphaMemes
+  - 3HSTltd.wolf.gene
+  - biotexpans.core
+  - biotexpans.mammalia
+  - Hol.CatEars
+  - CrashM.ColorCodedMoodBar.11
+  - Dubwise.DubsBadHygiene
+  - Dubwise.DubsCentralHeating
+  - Dubwise.DubsMintMenus
+  - Mlie.DurableClothes
+  - Karmgahl.FactionCustomizer
+  - warlocksforge.fishtraps
+  - Mlie.FoodPoisoningStackFix
+  - m00nl1ght.GeologicalLandforms
+  - m00nl1ght.MapPreview
+  - CrunchyDuck.Math
+  - Arquebus.MoreGeneComplexity
+  - kirby.morereligiousorigins
+  - hobtook.mortaraccuracy
+  - Fluffy.MusicManager
+  - Mehni.PickUpAndHaul
+  - Peppsen.PMusic
+  - Mlie.RelevantStatsInDescription
+  - Proxyer.RemovableMtRockRoofPatche
+  - Bucko.RoyalArsenal
+  - Bucko.RoyalArsenal.ExtraPermits
+  - Bucko.RoyalArsenal.SpecialtyWeapons
+  - Teok25.ShelfOfHolding
+  - Owlchemist.ToggleableShields
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - VanillaExpanded.VARME
+  - VanillaExpanded.BaseGeneration
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VChemfuelE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookESushi
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEArchitect
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VIEHAR
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - vanillaexpanded.outposts
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VPsycastsE
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWENL
+  - VanillaExpanded.VWEQ
+  - Gunmar.VictorianEraApparels
+  - Murmur.WallLight
+  - kikohi.BetterGroundPenetratingScanner
+  - PeteTimesSix.ResearchReinvented
+  - Uuugggg.ReplaceStuff
+  - VanillaExpanded.VPlantsEMore
+  - calltradeships.kv.rw
+  - Grizzle.TurtleFriendlyRaids
+  - Ogliss.Ykara.HarvestEverything
+  - ELIF.SRTS.Helicopters
+  - bedrestforfoodpoisoning.1trickPonyta
+  - BiomesTeam.BiomesCore
+  - BiomesTeam.BiomesIslands
+  - Dreyven.Xenotypes.Catgirls
+  - Owlchemist.CleanPathfinding
+  - jecrell.doorsexpanded
+  - Erin.Hair2
+  - neceros.fastersmoothing
+  - Aoba.Fortress.Medieval
+  - LWM.DeepStorage
+  - Darkborderman.MoreTraitGenes
+  - nowayjose.nomorebreachraids
+  - PeteTimesSix.ResearchReinvented.SteppingStones
+  - roolo.RunAndGun
+  - Mlie.SimplyMoreBridges
+  - dhultgren.smarterconstruction
+  - Hyper.SmoothWallsAndFloors
+  - Linkolas.Stabilize
+  - vanillaexpanded.skills
+  - VanillaExpanded.VPersonaWeaponsE
+  - void.charactereditor
+  - Telkir.TMods.MoreFloors
+  - Shootex.Casualties.of.War
+  - Dubwise.DubsSkylights
+  - mosi.FirefoamThings
+  - Tials.Floordrawings
+  - Crocodil.FoodPoisoningCures
+  - DanielWedemeyer.GeneRipper
+  - Orion.Hospitality
+  - Fluffy.MedicalTab
+  - StarkRavingSane.ModestyGene
+  - AmCh.NeedBarOverflow
+  - laura7z.noflares
+  - Vesper.NotMyFault
+  - Rooboid.Paintings.Ex
+  - crazedmonkey231.spread.the.word
+  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
+  - VanillaExpanded.VCEFAddon
+  - PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter
+  - VanillaExpanded.HelixienGas
+  - MrHydralisk.VOEAdditionalOutposts
+  - avius.prisonlabor
+  - Mlie.PrisonersDontHaveKeys
+  - EdB.PrepareCarefully.alonske.fork
+  - Rooboid.Britannic.Backstories
+  - Ykara.elStrages.EPOE
+  - Aoba.Fortress.Industrial
+  - Buildable.Terrain
+  - Odz.40k.ImperialGuard.Cadian
+  - Odz.40k.OrdoTempestus.TempestusScions
+  - cat2002.showhair
+  - Porio.TunnulerFix
+  - automatic.bionicicons
+  - chv.DiagonalWalls2
+  - DoctorStupid.Sofa
+  - Mlie.MoreFactionInteraction
+  - zhuma.nocooldown
+  - Owlchemist.SimpleFX.Splashes
+  - Owlchemist.SimpleFX.Vapor
+  - Erin.Cats
+  - kathanon.ShowWeaponTallies
+  - Jayrizzel06.skintightrecon
+  - Mlie.RoadsOfTheRim
+  - Dubwise.Rimatomics
+  - Mlie.LiveWithThePain
+  - Ogliss.TheWhiteCrayon.Quarry
+  - Aoba.Tent
+  - hatti.qualitybuilder
+  - ICC.TOV.RA
+  - hobtook.tradeui
+Could not load reference to Verse.ThingDef named FT_TableConcrete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find class CMS.MapComponent_StoneGrid while resolving node li. Trying to use Verse.MapComponent instead. Full node: <li Class="CMS.MapComponent_StoneGrid" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SaveableFromNode exception: System.ArgumentException: Can't load abstract class Verse.MapComponent
+  at Verse.ScribeExtractor.SaveableFromNode[T] (System.Xml.XmlNode subNode, System.Object[] ctorArgs) [0x00125] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+Subnode:
+<li Class="CMS.MapComponent_StoneGrid" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named FT_TableConcrete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SaveableFromNode exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.Thing.ExposeData () [0x00016] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at (wrapper dynamic-method) Verse.ThingWithComps.Verse.ThingWithComps.ExposeData_Patch1(Verse.ThingWithComps)
+  at Verse.Building.ExposeData () [0x00000] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at RimWorld.Building_WorkTable.ExposeData () [0x00000] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at Verse.ScribeExtractor.SaveableFromNode[T] (System.Xml.XmlNode subNode, System.Object[] ctorArgs) [0x001c4] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+Subnode:
+<thing Class="Building_WorkTable"><def>FT_TableConcrete</def><id>FT_TableConcrete20592</id><map>0</map><pos>(107, 0, 119)</pos><rot>2</rot><health>180</health><faction>Faction_19</faction><questTags IsNull="True" /><parentThing>Thing_PowerConduit20560</parentThing><billStack><bills><li Class="Bill_Production"><loadID>27</loadID><recipe>FT_Make_ConcreteByChunk</recipe><allowedSkillRange>0~20</allowedSkillRange><pawnRestriction>null</pawnRestriction><precept>null</precept><xenogerm>null</xenogerm><ingredientFilter><disallowedSpecialFilters><li>AllowCorpsesColonist</li><li>AllowCorpsesStranger</li><li>AllowCorpsesSlave</li><li>AllowCorpsesMechFriendly</li><li>AllowCorpsesMechEnemy</li></disallowedSpecialFilters><allowedDefs><li>ChunkSandstone</li><li>ChunkGranite</li><li>ChunkLimestone</li><li>ChunkSlate</li><li>ChunkMarble</li><li>BiomesIslands_ChunkCoral</li></allowedDefs><allowedHitPointsPercents>0~1</allowedHitPointsPercents><allowedQualityLevels>Awful~Legendary</allowedQualityLevels></ingredientFilter><repeatMode>TargetCount</repeatMode><repeatCount>1</repeatCount><storeMode>BestStockpile</storeMode><storeZone>null</storeZone><targetCount>600</targetCount><unpauseWhenYouHave>5</unpauseWhenYouHave><includeFromZone>null</includeFromZone><repeat_count_last_valid>1</repeat_count_last_valid><target_count_last_valid>600</target_count_last_valid><unpause_last_valid>5</unpause_last_valid><itemsToCountLastValid>"concrete blocks"</itemsToCountLastValid><linkTracker><myID>8</myID><settings><setting_1>True</setting_1><setting_1compatible>True</setting_1compatible><setting_2>True</setting_2><setting_2compatible>True</setting_2compatible><setting_3>True</setting_3><setting_3compatible>True</setting_3compatible><setting_4>True</setting_4><setting_4compatible>True</setting_4compatible><setting_5>True</setting_5><setting_5compatible>True</setting_5compatible><setting_6>True</setting_6><setting_6compatible>True</setting_6compatible><setting_7>True</setting_7><setting_7compatible>True</setting_7compatible><setting_8>True</setting_8><setting_8compatible>True</setting_8compatible><setting_9>True</setting_9><setting_9compatible>True</setting_9compatible><setting_10>True</setting_10><setting_10compatible>True</setting_10compatible><setting_11>True</setting_11><setting_11compatible>True</setting_11compatible><setting_12>True</setting_12><setting_12compatible>True</setting_12compatible><setting_13>True</setting_13><setting_13compatible>True</setting_13compatible><setting_14>True</setting_14><setting_14compatible>True</setting_14compatible><setting_15>True</setting_15><setting_15compatible>True</setting_15compatible></settings><children /></linkTracker><target_count_last_result>600</target_count_last_result><doXTimesLastResult>1</doXTimesLastResult><unpauseLastResult>5</unpauseLastResult></li><li Class="Bill_Production"><loadID>33</loadID><recipe>FT_Make_ReinforcedConcrete</recipe><allowedSkillRange>0~20</allowedSkillRange><pawnRestriction>null</pawnRestriction><precept>null</precept><xenogerm>null</xenogerm><ingredientFilter><disallowedSpecialFilters><li>AllowCorpsesColonist</li><li>AllowCorpsesStranger</li><li>AllowCorpsesSlave</li><li>AllowCorpsesMechFriendly</li><li>AllowCorpsesMechEnemy</li></disallowedSpecialFilters><allowedDefs><li>FT_BlocksConcrete</li></allowedDefs><allowedHitPointsPercents>0~1</allowedHitPointsPercents><allowedQualityLevels>Awful~Legendary</allowedQualityLevels></ingredientFilter><repeatMode>TargetCount</repeatMode><repeatCount>1</repeatCount><storeMode>BestStockpile</storeMode><storeZone>null</storeZone><targetCount>600</targetCount><unpauseWhenYouHave>5</unpauseWhenYouHave><includeFromZone>null</includeFromZone><repeat_count_last_valid>1</repeat_count_last_valid><target_count_last_valid>600</target_count_last_valid><unpause_last_valid>5</unpause_last_valid><itemsToCountLastValid>"reinforced concrete"</itemsToCountLastValid><linkTracker><myID>11</myID><settings><setting_1>True</setting_1><setting_1compatible>True</setting_1compatible><setting_2>True</setting_2><setting_2compatible>True</setting_2compatible><setting_3>True</setting_3><setting_3compatible>True</setting_3compatible><setting_4>True</setting_4><setting_4compatible>True</setting_4compatible><setting_5>True</setting_5><setting_5compatible>True</setting_5compatible><setting_6>True</setting_6><setting_6compatible>True</setting_6compatible><setting_7>True</setting_7><setting_7compatible>True</setting_7compatible><setting_8>True</setting_8><setting_8compatible>True</setting_8compatible><setting_9>True</setting_9><setting_9compatible>True</setting_9compatible><setting_10>True</setting_10><setting_10compatible>True</setting_10compatible><setting_11>True</setting_11><setting_11compatible>True</setting_11compatible><setting_12>True</setting_12><setting_12compatible>True</setting_12compatible><setting_13>True</setting_13><setting_13compatible>True</setting_13compatible><setting_14>True</setting_14><setting_14compatible>True</setting_14compatible><setting_15>True</setting_15><setting_15compatible>True</setting_15compatible></settings><children /></linkTracker><target_count_last_result>600</target_count_last_result><doXTimesLastResult>1</doXTimesLastResult><unpauseLastResult>5</unpauseLastResult></li><li Class="Bill_Production"><loadID>34</loadID><recipe>FT_Make_ConcreteWood</recipe><allowedSkillRange>0~20</allowedSkillRange><pawnRestriction>null</pawnRestriction><precept>null</precept><xenogerm>null</xenogerm><ingredientFilter><disallowedSpecialFilters><li>AllowCorpsesColonist</li><li>AllowCorpsesStranger</li><li>AllowCorpsesSlave</li><li>AllowCorpsesMechFriendly</li><li>AllowCorpsesMechEnemy</li></disallowedSpecialFilters><allowedDefs><li>FT_BlocksConcrete</li></allowedDefs><allowedHitPointsPercents>0~1</allowedHitPointsPercents><allowedQualityLevels>Awful~Legendary</allowedQualityLevels></ingredientFilter><repeatMode>TargetCount</repeatMode><repeatCount>1</repeatCount><storeMode>BestStockpile</storeMode><storeZone>null</storeZone><targetCount>200</targetCount><unpauseWhenYouHave>5</unpauseWhenYouHave><includeFromZone>null</includeFromZone><repeat_count_last_valid>1</repeat_count_last_valid><target_count_last_valid>200</target_count_last_valid><unpause_last_valid>5</unpause_last_valid><itemsToCountLastValid>"fiber concrete plank"</itemsToCountLastValid><linkTracker><myID>14</myID><settings><setting_1>True</setting_1><setting_1compatible>True</setting_1compatible><setting_2>True</setting_2><setting_2compatible>True</setting_2compatible><setting_3>True</setting_3><setting_3compatible>True</setting_3compatible><setting_4>True</setting_4><setting_4compatible>True</setting_4compatible><setting_5>True</setting_5><setting_5compatible>True</setting_5compatible><setting_6>True</setting_6><setting_6compatible>True</setting_6compatible><setting_7>True</setting_7><setting_7compatible>True</setting_7compatible><setting_8>True</setting_8><setting_8compatible>True</setting_8compatible><setting_9>True</setting_9><setting_9compatible>True</setting_9compatible><setting_10>True</setting_10><setting_10compatible>True</setting_10compatible><setting_11>True</setting_11><setting_11compatible>True</setting_11compatible><setting_12>True</setting_12><setting_12compatible>True</setting_12compatible><setting_13>True</setting_13><setting_13compatible>True</setting_13compatible><setting_14>True</setting_14><setting_14compatible>True</setting_14compatible><setting_15>True</setting_15><setting_15compatible>True</setting_15compatible></settings><children /></linkTracker><target_count_last_result>200</target_count_last_result><doXTimesLastResult>1</doXTimesLastResult><unpauseLastResult>5</unpauseLastResult></li></bills></billStack></thing> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception registering RimWorld.Building_WorkTable RimWorld.Building_WorkTable in loaded object directory with unique load ID [excepted]: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.Thing.get_ThingID () [0x00000] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at Verse.Thing.GetUniqueLoadID () [0x00000] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000b3] in <3126aca1aad041dcbdeda807cfe004bf>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross refs: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.Thing.ExposeData () [0x00016] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at (wrapper dynamic-method) Verse.ThingWithComps.Verse.ThingWithComps.ExposeData_Patch1(Verse.ThingWithComps)
+  at Verse.Building.ExposeData () [0x00000] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at RimWorld.Building_WorkTable.ExposeData () [0x00000] in <3126aca1aad041dcbdeda807cfe004bf>:0 
+  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x000d0] in <3126aca1aad041dcbdeda807cfe004bf>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Map compressor decompression error: No thingDef with short hash 324. Adding as null to dictionary. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception spawning loaded thing null: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.Map.FinalizeLoading () [0x000b9] in <3126aca1aad041dcbdeda807cfe004bf>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings...
+bodysizes genes are active
+[Simple FX: Splashes] Splash grid build with 69 cells.
+QualityBuilder added to orders category.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 52544.
+Total: 982.824200 ms (FindLiveObjects: 2.559700 ms CreateObjectMapping: 7.350500 ms MarkObjects: 972.804500 ms  DeleteObjects: 0.108700 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1d08 -> priority: 1 
+  Thread -> id: 3844 -> priority: 1 
+  Thread -> id: 2448 -> priority: 1 
+  Thread -> id: 1208 -> priority: 1 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 59558.
+Total: 1179.289500 ms (FindLiveObjects: 3.102800 ms CreateObjectMapping: 10.933500 ms MarkObjects: 1165.089800 ms  DeleteObjects: 0.163000 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: ec8 -> priority: 1 
+  Thread -> id: 1d78 -> priority: 1 
+  Thread -> id: 404 -> priority: 1 
+  Thread -> id: 187c -> priority: 1 
